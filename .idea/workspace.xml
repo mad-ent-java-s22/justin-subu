@@ -1,37 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e6abf57b-eae2-4c0e-8910-87c332e144a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/justin-subu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step12GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step13(1)GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step13(2)GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step14GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step16GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step3GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step7GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2step9GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Gitflow diagrams.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/clone-repository-dialog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/git-flow-summary-table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/github-pages-settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heading-after.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/heading-before.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pull-request-open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pull-request-tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step1GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step3(1)GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step3(2)GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step5GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step6GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step7GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/step9GitFlow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Workshop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +44,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -166,6 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648705564161</updated>
       <workItem from="1648705567476" duration="360000" />
+      <workItem from="1648831437129" duration="950000" />
     </task>
     <servers />
   </component>
@@ -182,6 +165,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
